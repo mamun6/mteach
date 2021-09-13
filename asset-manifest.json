@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/mteach/static/css/main.f844bcae.chunk.css",
+    "main.js": "/mteach/static/js/main.69702e34.chunk.js",
+    "main.js.map": "/mteach/static/js/main.69702e34.chunk.js.map",
+    "runtime-main.js": "/mteach/static/js/runtime-main.544159e6.js",
+    "runtime-main.js.map": "/mteach/static/js/runtime-main.544159e6.js.map",
+    "static/js/2.c21f84ef.chunk.js": "/mteach/static/js/2.c21f84ef.chunk.js",
+    "static/js/2.c21f84ef.chunk.js.map": "/mteach/static/js/2.c21f84ef.chunk.js.map",
+    "index.html": "/mteach/index.html",
+    "static/css/main.f844bcae.chunk.css.map": "/mteach/static/css/main.f844bcae.chunk.css.map",
+    "static/js/2.c21f84ef.chunk.js.LICENSE.txt": "/mteach/static/js/2.c21f84ef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.544159e6.js",
+    "static/js/2.c21f84ef.chunk.js",
+    "static/css/main.f844bcae.chunk.css",
+    "static/js/main.69702e34.chunk.js"
+  ]
+}
